@@ -1,0 +1,13 @@
+# Created on December 05, 2020
+# Created by Thomas Bowen
+name: usgs_tnm_api
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - pandas
+  - requests
+  - spyder
